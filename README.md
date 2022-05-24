@@ -3,7 +3,7 @@ javaEE application, Mysql,MVC,DAO
 
 
  **Description:
- this a simple application javaEE crud , jstl core, i use Mysql to store and get Data, this is an e-shop application, i use MVC Design pattern, with DAO Design pattern to connecte to bdd and implement the connection; i use also a simple  Vanilla javascript and bootstrap.
+ this a simple application javaEE crud , jstl core,java session, i use  Mysql to store and get Data, this is an e-shop application, i use MVC Design pattern, with DAO Design pattern to connecte to bdd and implement the connection; i use also a simple  Vanilla javascript and bootstrap.
  
  install project: 
  1/ take the sql file and install it; it contain a data base with 2 tables (produits,newsletter)
