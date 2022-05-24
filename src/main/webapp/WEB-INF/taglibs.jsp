@@ -1,0 +1,2 @@
+<%@ page pageEncoding="UTF-8"%>
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %><%--pour inclure la librairie téléchargé de jstl le prefix c veut dire les balise jstl commence par c --%>
